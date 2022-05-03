@@ -13,6 +13,5 @@
 
   ⚡ Fun fact: 1 + 1 = 0
 
-[![Bintray](https://img.shields.io/bintray/v/asciidoctor/maven/asciidoctorj.svg?maxAge=2592000)](https://bintray.com/asciidoctor/maven/asciidoctorj)
   
   ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
