@@ -8,7 +8,7 @@
   
   🎲 Outside the world of tech too, I enjoy pushing myself to develop new skills. My hobbies range from video games 🎮, traveling ✈️ to camping 🔥.
   
-  📚 I also love reading books on personal development & financial literacy and fiction. My favorite ones are Subtle Art of Not Giving a F*ck, 
+  📚 I also love reading books on personal development & financial literacy and fiction. My favorite ones are The Subtle Art of Not Giving a F*ck, 
   The Richest Man in Babylon and The Foundation by Isaac Assimov.
 
   ⚡ Fun fact: 1 + 1 = 0
