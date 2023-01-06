@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 -----------------
 
-I've been learning to code for 5 years, after switching careers.I began with a bachelor's degree in electrical engineering but quickly discovered a passion for web development, so I enrolled in GoMyCode Full-stack Js Developer Bootcamp and built my first e-commerce website using M.E.R.N Technology. So I was interested in the technology industry and wanted to advance my career by earning a software engineer degree and delving deeper into it.
+I've been learning to code for 5 years, after switching careers. I began with a bachelor degree in electrical engineering but quickly discovered a passion for web development, so I enrolled in GoMyCode Full-stack Js Developer Bootcamp and built my first e-commerce website using M.E.R.N Technology. So I was interested in the tech industry and wanted to advance my career by earning a software engineer degree and delving deeper into it.
 
 * ✉️  You can contact me at [raynlazghab@gmail.com](mailto:raynlazghab@gmail.com)
 * 🧠  I'm learning Blockchain
