@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 -----------------
 
-I am passionate about the Fintech industry and eager to gain practical experience to further enhance my skills. My goal is to contribute to the development of cutting-edge financial technologies and make a positive impact on the industry.
+As an enthusiastic student pursuing a career at the intersection of technology and finance, I am diligently polishing my skills to capitalize on the revolutionary potential of both. Follow me through my GitHub repository, where innovation and financial prowess meet.
 
 * ✉️  You can contact me at [raynlazghab@gmail.com](mailto:raynlazghab@gmail.com)
 * 🤝  I'm open to collaborating on Fintech, Web Development
