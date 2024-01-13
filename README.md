@@ -1,44 +1,15 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rayen Lazghab
-=====================================================================================================================================
 
-Software Engineer
------------------
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rayan-lazghab) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@http://www.medium.com/@rayanlazghab) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://www.stackoverflow.com/users/14277738/rayn) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://twitter.com/rayan_lazghab) 
 
-As an enthusiastic student pursuing a career at the intersection of technology and finance, I am diligently polishing my skills to capitalize on the revolutionary potential of both. Follow me through my GitHub repository, where innovation and financial prowess meet.
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=rayenCtrl&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=rayenCtrl&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rayenCtrl&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-* ✉️  You can contact me at [raynlazghab@gmail.com](mailto:raynlazghab@gmail.com)
-* 🤝  I'm open to collaborating on Fintech, Web Development
+---
+[![](https://visitcount.itsvg.in/api?id=rayenCtrl&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### Skills
-
-
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
-</p>
-
-
-### Socials
-
-<p align="left"> <a href="https://www.github.com/rayenCtrl" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/rayan-lazghab-416bb7139/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@rayanlazghab" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/14277738/rayn" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/rayan_lazghab" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/rayenCtrl"><img src="https://github-readme-stats.vercel.app/api?username=rayenCtrl&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=ef4444&bg_color=181824&hide_border=true&show_icons=true" alt="rayenCtrl's GitHub stats" /></a>
-
-<a href="https://github.com/rayenCtrl" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayenCtrl&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=ef4444&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/rayenCtrl/MERN_e-commerce" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=rayenCtrl&repo=MERN_e-commerce&title_color=0891b2&text_color=ffffff&icon_color=ef4444&bg_color=181824&hide_border=true&locale=en" /></a><a href="https://github.com/rayenCtrl/movie-app" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=rayenCtrl&repo=movie-app&title_color=0891b2&text_color=ffffff&icon_color=ef4444&bg_color=181824&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/rayenCtrl/calculator" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=rayenCtrl&repo=calculator&title_color=0891b2&text_color=ffffff&icon_color=ef4444&bg_color=181824&hide_border=true&locale=en" /></a><a href="https://github.com/rayenCtrl/ToDo-application" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=rayenCtrl&repo=ToDo-application&title_color=0891b2&text_color=ffffff&icon_color=ef4444&bg_color=181824&hide_border=true&locale=en" /></a></div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
