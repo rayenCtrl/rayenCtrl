@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Stock Prediction Model<br>🤝 I’m looking for help with Algorithm Trading Model<br>🌱 I’m currently learning ML
+🔭 I’m currently working on BVMT Stock Prediction Model<br>🤝 I’m looking for help with Algorithm Trading Model<br>🌱 I’m currently learning ML
 
 
 ## 🌐 Socials:
