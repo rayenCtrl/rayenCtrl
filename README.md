@@ -5,6 +5,6 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=rayenCtrl&theme=github_dark&hide_border=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=rayenCtrl&theme=github_dark&hide_border=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
